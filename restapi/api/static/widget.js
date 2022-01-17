@@ -21,7 +21,7 @@ let widgetManager = {
         alert(res['parsing_result'])
     },
     widgetCode:
-        '<form method="post" action="https://stormy-tundra-99558.herokuapp.com/" enctype="multipart/form-data"\n' +
+        '<form method="post" action="https://thawing-temple-26332.herokuapp.com/" enctype="multipart/form-data"\n' +
         '      style="' +
         'display: flex;' +
         'flex-direction: column;' +
